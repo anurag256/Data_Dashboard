@@ -4,3 +4,9 @@ backgroundColor="white"
 secondaryBackgroundColor="lightGray"
 textColor="#042727"
 font="monospace"
+
+
+[server]
+port = 8501
+sslCertFile = './cert.pem'
+sslKeyFile = './key.pem'
