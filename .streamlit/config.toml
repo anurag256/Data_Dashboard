@@ -4,8 +4,3 @@ backgroundColor="white"
 secondaryBackgroundColor="lightGray"
 textColor="#042727"
 font="monospace"
-
-
-[server]
-sslCertFile = './cert.pem'
-sslKeyFile = './key.pem'
