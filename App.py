@@ -1,8 +1,8 @@
 import datetime
 import streamlit as st
 from streamlit_extras.switch_page_button import switch_page
-from methods.SVG_generator import new_svg_gen, svg_gen
-from methods.styles import header, vertical_line, image_loader, horizontal_line, sub_heading, new_svg_loader
+from methods.SVG_generator import new_svg_gen
+from methods.styles import header, vertical_line, horizontal_line, sub_heading, new_svg_loader
 from threading import Thread
 import pandas as pd
 import logging

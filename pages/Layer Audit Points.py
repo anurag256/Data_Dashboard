@@ -1,7 +1,6 @@
 import pandas as pd
 from methods.styles import back_btn, header
 import streamlit as st
-from streamlit_extras.switch_page_button import switch_page
 
 header("Layer Audit and Action Points")
 

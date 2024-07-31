@@ -1,7 +1,6 @@
 import datetime
 import streamlit as st
 import pandas as pd
-from streamlit_extras.switch_page_button import switch_page
 from methods.colours import color
 from methods.styles import back_btn, header, horizontal_line, selected_date
 import plotly.express as px

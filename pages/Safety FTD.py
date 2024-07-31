@@ -1,8 +1,7 @@
 import datetime
-from turtle import width
 import pandas as pd
 from streamlit_extras.switch_page_button import switch_page
-from methods.styles import header, horizontal_line, svg_for_ftd, vertical_line
+from methods.styles import header, horizontal_line, svg_for_ftd
 from methods.colours import color
 import streamlit as st
 

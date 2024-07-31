@@ -1,10 +1,9 @@
 import datetime
-from xml.etree.ElementInclude import include
 import streamlit as st
 import pandas as pd
 from streamlit_extras.switch_page_button import switch_page
 from methods.colours import color
-from methods.styles import header, horizontal_line, svg_for_ftd, vertical_line
+from methods.styles import header, horizontal_line, svg_for_ftd
 
 header("Quality FTD")
 back = st.button("<- Back")

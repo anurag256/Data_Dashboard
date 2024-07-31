@@ -1,5 +1,3 @@
-from enum import auto
-from re import T
 from methods.styles import header
 import streamlit as st
 
